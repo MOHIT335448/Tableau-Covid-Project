@@ -7,3 +7,6 @@ Tableau :
 3. Calendar Graph 
 4. Maps Chart
 5. Which country is worst affected
+
+
+Name of the dataset used - owid-covid-data.csv
